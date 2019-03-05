@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formaviva Blog</title>
+    <link>/author/aljaz-fajmut/</link>
+    <description>Recent content on Formaviva Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Formaviva</copyright>
+    
+        <atom:link href="/author/aljaz-fajmut/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
